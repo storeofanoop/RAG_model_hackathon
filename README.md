@@ -9,6 +9,9 @@
 * Uses a local LLM  to generate grounded answers
 
 
+<img width="850" height="452" alt="image" src="https://github.com/user-attachments/assets/3a855aa6-20bd-4405-b86b-988f6e145973" />
+
+
 # RAG flow diagram
 <img width="950" height="577" alt="image" src="https://github.com/user-attachments/assets/98eec129-ad99-4bef-b913-3b5e5180778a" />
 
